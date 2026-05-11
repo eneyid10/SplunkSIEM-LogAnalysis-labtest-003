@@ -382,36 +382,4 @@ Then save it as an alert:
 
 ---
 
-## Career Relevance
 
-| Role | How This Lab Applies |
-|---|---|
-| **SOC Analyst Tier 1** | Monitoring dashboards, searching logs for suspicious activity, escalating findings |
-| **SOC Analyst Tier 2–3** | Building detection rules, correlating events across data sources, threat hunting |
-| **Cloud Security Engineer** | Microsoft Sentinel and AWS Security Hub use the same SIEM mental model |
-| **Incident Responder** | Searching logs during active incidents, building timelines, identifying scope of compromise |
-
----
-
-## Portfolio Notes
-
-Take screenshots of:
-- Your populated **Windows Security Overview** dashboard
-- Your configured **Brute Force alert** (Settings → Searches, Reports, and Alerts)
-- One or two interesting SPL search results (e.g., top failed login accounts, after-hours logins)
-
-Export your key searches as saved reports in Splunk. Write a short paragraph for each dashboard panel explaining what it shows and why it matters from a security operations perspective. This is concrete, demonstrable SIEM experience — before your first SOC role.
-
----
-
-## Related Labs
-
-| Lab | Topic |
-|---|---|
-| **Lab 1** | Active Directory — the Windows Server VM that feeds logs into this lab |
-| **Lab 2** | Network Traffic Analysis with Wireshark |
-| **Lab 4** | Vulnerability Scanning with Nessus / OpenVAS |
-
----
-
-*Built as part of a hands-on home lab series for security engineering and SOC analyst career development.*
